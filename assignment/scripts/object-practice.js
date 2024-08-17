@@ -52,3 +52,7 @@ console.log('my new shoe count is:', me.shoeCount)
 //   - Cool huh? It works, even though it wasn't there before
 //   - Console.log your object
 // */
+me.Numpet = 1;
+console.log('new item in object!:', me)
+me.likesApples = true;
+console.log('new item in object!:', me)
