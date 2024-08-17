@@ -13,7 +13,7 @@ let me = {
   lastName: 'Lagervall',
   hasSiblings: true,
   shoeCount: 7,
-  favThreeFoods:['tacos', 'indian', 'salad']
+  favThreeFoods: ['tacos', 'indian', 'salad']
   // TODO - add properties here
 };
 console.log('A little about me:', me);
@@ -42,7 +42,7 @@ console.log('my third favorite food is:', me.favThreeFoods[2]);
 //   - Console.log your updated shoe count. 
 // */
 console.log('my current shoe count is:', me.shoeCount)
-me.shoeCount.push
+me.shoeCount += 1;
 console.log('my new shoe count is:', me.shoeCount)
 
 
